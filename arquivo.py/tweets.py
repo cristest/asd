@@ -1,0 +1,1 @@
+arquivo = open('C:/Users/1701604/Downloads/tweets.txt')
